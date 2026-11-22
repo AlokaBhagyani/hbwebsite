@@ -1,0 +1,26 @@
+Resources Required for HBWebsite Project
+
+1. Server Environment
+   - XAMPP (Recommended)
+     * Apache (Web Server)
+     * MySQL (Database)
+     * PHP (Backend)
+
+2. Programming Languages / Frameworks
+   - HTML5
+   - CSS3 (with Bootstrap for styling and responsive UI)
+   - PHP (Procedural)
+
+3. Database
+   - MySQL 
+
+4. Tools (for development & testing)
+   - Web Browser (Chrome, Firefox, or Edge)
+   - Code Editor (VS Code)
+   - phpMyAdmin (bundled with XAMPP) for database management
+
+5. Dependencies / Libraries
+   - Bootstrap (CDN or local version)
+   - jQuery (CDN, if required by Bootstrap version)
+
+
